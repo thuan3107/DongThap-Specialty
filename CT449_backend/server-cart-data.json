@@ -1,0 +1,18 @@
+[
+     {
+          "id": 1,
+          "title": "COMBO 5KG XOÀI CÁT CHU",
+          "picture": "src/assets/images/xoaicatchucaolanh.png",
+          "description": "Xoài cát chu - đặc sản Cao Lãnh. ",
+          "price": 220,
+          "quantity": 3
+     },
+     {
+          "id": 2,
+          "title": "RƯỢU XOÀI NGUYỄN HIẾU",
+          "picture": "src/assets/images/ruouxoai.jpg",
+          "description": "Rượu được lên men tự nhiên nên vẫn giữ được mùi thơm và vị ngọt đặc trưng của xoài, rượu xoài hữu cơ Nguyễn Hiếu là sản phẩm sang trọng thích hợp làm quà biếu tặng cho người thân và bạn bè, đồng nghiệp.Dung tích : 750 ml,Vol : 29%",
+          "price": 170,
+          "quantity": 2
+     }
+]

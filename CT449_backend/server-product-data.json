@@ -1,0 +1,62 @@
+
+[
+
+    {
+        "id": 1,
+        "title": "COMBO 5KG XOÀI CÁT CHU",
+        "picture":"src/assets/images/xoaicatchucaolanh.png",
+        "description": "Xoài cát chu - đặc sản Cao Lãnh. ",
+        "price": 220.000
+    },
+    {
+        "id": 2,
+        "title": "RƯỢU XOÀI NGUYỄN HIẾU",
+        "picture": "src/assets/images/ruouxoai.jpg",
+        "description": "Rượu được lên men tự nhiên nên vẫn giữ được mùi thơm và vị ngọt đặc trưng của xoài, rượu xoài hữu cơ Nguyễn Hiếu là sản phẩm sang trọng thích hợp làm quà biếu tặng cho người thân và bạn bè, đồng nghiệp.Dung tích : 750 ml,Vol : 29%",
+        "price": 170.000
+    },
+    {
+        "id": 3,
+        "title": "XOÀI SẤY NAM HUY",
+        "picture": "src/assets/images/xoaisaynamhuy.jpg",
+        "description": "Xoài Sấy là một sản phẩm cô đặc các chất dinh dưỡng màu sắc và hương vị của quả xoài tươi tự nhiên, tạo nên sản phẩm thơm ngon hấp dẫn, tiện lợi cho người tiêu dùng.Trọng lượng: 100 gr.",
+        "price": 55.000
+    },
+    {
+        "id": 4,
+        "title": "BÁNH XOÀI NGỌC PHỤNG",
+        "picture": "src/assets/images/banhtrangxoai.jpg",
+        "description": "Bánh Xoài sấy dẻo là một dạng thực phẩm được làm khô của quả xoài. Hình thức làm mất nước của loại trái cây này làm tăng thời hạn sử dụng của chúng được lâu hơn nhiều.",
+        "price": 359.000
+    },
+    {
+        "id": 5,
+        "title": "TRÀ LÁ SEN",
+        "picture": "src/assets/images/tralasen.jpg",
+        "description": "Sản phẩm trà khô thơm ngon từ thương hiệu Hương Sen Việt đặc sản của tỉnh Đồng Tháp.",
+        "price": 70.000
+    },
+    {
+        "id":6,
+        "title": "HẠT SEN SẤY BƠ",
+        "picture": "src/assets/images/sensaybo.jpg",
+        "description": "Được lựa chọn kỹ lưỡng từ những hạt sen tươi ngon, qua quy trình khép kín sấy chân không cẩn thận, không những đảm bảo nguyên vẹn hương vị đặc trưng và thành phần dinh dưỡng của hạt sen, mà còn tạo ra những hạt sen đều nguyên hạt, chắc mẩy, với màu vàng nhạt. ",
+        "price": 180.000
+    },
+    {
+        "id":7,
+        "title": "BỘT SỮA SEN DOTHA LOTUS",
+        "picture": "src/assets/images/suahatsen.jpg",
+        "description": "Bột Sữa Hạt Sen được sản xuất từ những hạt sen tươi ngon của vùng sen Đồng Tháp. Sữa thực vật 100% Organic phù hợp với cả người ăn chay lẫn ăn mặn., ..",
+        "price": 215.000
+    },
+    {
+        "id":8,
+        "title": "NÓN LÁ SEN ECOLOTUS",
+        "picture": "src/assets/images/nonlasen.jpg",
+        "description": "Nón Lá Sen Đồng Tháp ECOLOTUS, Quà Tặng Văn Hóa Việt Nam, Nhiều Size. ",
+        "price": 200.000
+    }
+
+    
+]
